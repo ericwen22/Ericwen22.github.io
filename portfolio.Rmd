@@ -15,9 +15,9 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://www.github.com)
+- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://ericwen22.github.io/project1/)
 
-    - Longer Description
+    - Wrangling, Exploratory analysis of the disaster data in correlation to temperature within the U.S.
 
 <br>
 
