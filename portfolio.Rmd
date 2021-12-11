@@ -15,12 +15,12 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://ericwen22.github.io/project1/)
+- <i class="fa fa-chart-line"> </i> [Project 1: Temperature](https://ericwen22.github.io/project1/)
 
     - Wrangling, Exploratory analysis of the disaster data in correlation to temperature within the U.S.
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://www.google.com)
+- <i class="fa fa-chart-pie"> </i> [Project 2: Gender Prediction](https://ericwen22.github.io/project2/)
 
-    - Longer Description
+    - Classification and regression analysis on CPSS08 data provided by the U.S. Department of Labor in attempt to classify/predict gender metric based on earnings, education, and age. 
